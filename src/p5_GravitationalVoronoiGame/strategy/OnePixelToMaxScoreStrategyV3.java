@@ -7,6 +7,7 @@ import p5_GravitationalVoronoiGame.AbsPlayer;
 import p5_GravitationalVoronoiGame.Board;
 import p5_GravitationalVoronoiGame.Move;
 import p5_GravitationalVoronoiGame.Strategy;
+import p5_GravitationalVoronoiGame.MoveTimer;
 
 // V2: use all previous moves from other player, and get position having the best score
 // V3: add randomly choose positions and use the best move 
